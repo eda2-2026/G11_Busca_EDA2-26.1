@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 
-
 # Carregar o dataset
 
 def load_dataset(file_path):
@@ -32,7 +31,7 @@ def get_music_dict(df):
         music_dict[index] = (music_row['track_name'], music_row['artist_name'], music_row['genre'], music_row['release_date'])
     return music_dict
 
-
+# Retorna a lista de tuplas (id, nome, artista, genero, ano ) a partir do dataset
 def get_musics_main():
     file_path = './assets/tcc_ceds_music.csv'
     df = load_dataset(file_path)
