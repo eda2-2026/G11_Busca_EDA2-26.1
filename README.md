@@ -1,5 +1,14 @@
 # G11-Busca-2026-01
 
+**Número da Lista**: 11<br>
+**Conteúdo da Disciplina**: Algoritmos de Busca<br>
+
+## Alunos
+|Matrícula | Aluno |
+| -- | -- |
+| 22/1007706  |  Elias Faria de Oliveira |
+| ? | ? |
+
 Projeto acadêmico para organização e busca de músicas utilizando uma **Árvore Binária de Busca (BST)**.
 
 O sistema carrega um dataset com músicas, cria uma árvore com base no nome da música e no artista, e permite buscas por:
