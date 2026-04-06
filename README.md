@@ -98,6 +98,10 @@ A BST oferece buscas com correspondência exata:
 
 ---
 
+## Aplicação
+
+![web_aplication](./assets/image.png)
+
 ## Explicação da árvore binária de busca
 
 Uma **Árvore Binária de Busca** é uma estrutura hierárquica em que:
